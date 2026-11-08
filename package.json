@@ -1,0 +1,1 @@
+{"name": "socket-ssrf-test", "version": "1.0.0", "description": "test package", "dependencies": {"lodash": "4.17.21"}}
